@@ -94,12 +94,5 @@ h1 {
 }
 
 #GameDiv {
-    width: 800px;
-    height: 450px;
-    margin: 0 auto;
-    background: black;
     position:relative;
-    border:5px solid black;
-    border-radius: 10px;
-    box-shadow: 0 5px 50px #333
 }
